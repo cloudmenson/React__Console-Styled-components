@@ -1,6 +1,6 @@
 # Styled Components
 
-Learned to use the styled components library
+Learned to use the "Styled components" library
 
 `Components:` 
 - React 
